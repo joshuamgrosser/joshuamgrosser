@@ -1,4 +1,4 @@
-- Hi, I’m @joshuamgrosser, a software engineer in the Atlanta metro area!
+- Hi, I’m Josh, a software engineer in the Atlanta metro area!
 - Tabletop roleplaying games (TTRPGs), hiking with my family, and mountain biking are my favorite activities outside of work.
 - I’m currently working for Intuit Mailchimp on the Partnerships team.
 - I'm always looking to network with other industry professionals in the Atlanta metro area.
