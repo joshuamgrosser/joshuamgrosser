@@ -4,11 +4,10 @@
 
 20-year software industry veteran with extensive cloud architecture experience.
 
-- 🔭 I’m currently working for a legal tech startup called DepoDirect. We make virtual depositions easy!
-- 🌱 My main focus is platform operations on Google Cloud Platform.
-- 💬 Ask me about anything related to distributed software architecture, cloud computing, GCP, Terraform, Node.js, or Rails.
+- 🔭 I am currently building an app called [Familiar GM Assistant](https://www.familiargmassistant.com/) for TTRPG game masters.
+- 💬 Ask me about distributed software architecture, Google Cloud Platform, Terraform, Node.js, and Rails.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vvulfmann)
-- ⚡ Fun fact: I'm a guitarist, mountain biker, and TTRPG game master.
+- ⚡ Fun fact: I'm a [professional TTRPG game master](https://startplaying.games/gm/vvulfmann) who runs games in Pathfinder 2e, D&D 5e, and other systems!
 
 ## Skills
 
@@ -21,6 +20,7 @@
 
 Here are a few projects I've been working on:
 
+- [Familiar GM Assistant](https://www.familiargmassistant.com/): A TTRPG game master's second brain.
 - [Alchemy Audio Converter](https://github.com/vvulfmann/alchemy-audio-converter): A simple audio file format converter utility.
 - [Alchemy Markdown Converter](https://github.com/vvulfmann/ddb-alchemy-markdown-converter): Cleans up and reformats markdown content.
 
