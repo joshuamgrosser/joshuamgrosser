@@ -6,7 +6,7 @@
 
 - 🔭 I am currently building an app called [Familiar GM Assistant](https://www.familiargmassistant.com/) for TTRPG game masters.
 - 💬 Ask me about distributed software architecture, Google Cloud Platform, Terraform, Node.js, and Rails.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vvulfmann)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshuamgrosser)
 - ⚡ Fun fact: I'm a [professional TTRPG game master](https://startplaying.games/gm/vvulfmann) who runs games in Pathfinder 2e, D&D 5e, and other systems!
 
 ## Skills
@@ -21,6 +21,6 @@
 Here are a few projects I've been working on:
 
 - [Familiar GM Assistant](https://www.familiargmassistant.com/): A TTRPG game master's second brain.
-- [Alchemy Audio Converter](https://github.com/vvulfmann/alchemy-audio-converter): A simple audio file format converter utility.
-- [Alchemy Markdown Converter](https://github.com/vvulfmann/ddb-alchemy-markdown-converter): Cleans up and reformats markdown content.
+- [Alchemy Audio Converter](https://github.com/joshuamgrosser/alchemy-audio-converter): A simple audio file format converter utility.
+- [Alchemy Markdown Converter](https://github.com/joshuamgrosser/ddb-alchemy-markdown-converter): Cleans up and reformats markdown content.
 
